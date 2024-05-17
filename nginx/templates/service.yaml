@@ -8,9 +8,8 @@ spec:
   type: {{ .Values.service.type }}
   ports:
     - port: {{ .Values.service.port }}
-      targetPort: 80
+      targetPort: http
       protocol: TCP
       name: http
   selector:
     {{- include "nginx.selectorLabels" . | nindent 4 }}
-
