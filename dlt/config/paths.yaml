@@ -1,0 +1,8 @@
+paths:
+  - sample_url: /visitor/card?id=1234
+    dynamic_url: /visitor/card?
+  - sample_url: /ms/candidate/pre_offer?id=2345
+    dynamic_url: /ms/candidate/pre_offer?
+  
+
+

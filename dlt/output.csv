@@ -1,0 +1,5 @@
+cta,sample_cta
+https://security1.qa.darwinbox.io/visitor/card?,https://security1.qa.darwinbox.io/visitor/card?id=1234
+https://security1.qa.darwinbox.io/ms/candidate/pre_offer?,https://security1.qa.darwinbox.io/ms/candidate/pre_offer?id=2345
+https://security2.qa.darwinbox.io/visitor/card?,https://security2.qa.darwinbox.io/visitor/card?id=1234
+https://security2.qa.darwinbox.io/ms/candidate/pre_offer?,https://security2.qa.darwinbox.io/ms/candidate/pre_offer?id=2345
